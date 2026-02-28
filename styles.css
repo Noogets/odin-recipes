@@ -85,7 +85,7 @@ h4 li {
 }
 .ingredient-list {
   flex: 1;
-  margin: 20px 5%;
+  margin: 0 5%;
   background-color: transparent;
 }
 .ingredient-list li {
